@@ -1,5 +1,5 @@
 import path from 'path';
-import filePathOneLayer from 'file-path-one-layer';
+import filePathOneLayer from '@ofa2/file-path-one-layer';
 
 async function lift() {
   // eslint-disable-next-line no-multi-assign

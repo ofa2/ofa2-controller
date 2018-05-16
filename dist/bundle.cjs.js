@@ -3,7 +3,7 @@
 function _interopDefault (ex) { return (ex && (typeof ex === 'object') && 'default' in ex) ? ex['default'] : ex; }
 
 var path = _interopDefault(require('path'));
-var filePathOneLayer = _interopDefault(require('file-path-one-layer'));
+var filePathOneLayer = _interopDefault(require('@ofa2/file-path-one-layer'));
 
 async function lift() {
   // eslint-disable-next-line no-multi-assign
